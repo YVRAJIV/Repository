@@ -1,0 +1,7 @@
+Model\Product.class
+service\ProductServiceImpl.class
+controller\HomeController.class
+DAO\ProductDaoImpl.class
+DAO\ProductDao.class
+Model\UserDetails.class
+service\ProductService.class
